@@ -53,6 +53,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 3.1.7
 ```
 
+* settings.pyのSECRET_KEYの外部ファイル化はここを参考にした > https://qiita.com/haessal/items/abaef7ee4fdbd3b218f5
+
+
 ## Day1：雑感（チュートリアル3まで終了）
 
 * 理解しやすく大変シンプルに出来てる印象。VSCodeでKite使って書いてると保管機能がヤバイ。
